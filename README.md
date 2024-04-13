@@ -1,2 +1,2 @@
 # java-lib-example
-This repository is created for testing for using remote jar file for maven
+This repository is created to test usage of remote jar file with maven.
